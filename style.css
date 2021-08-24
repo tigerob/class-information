@@ -1,0 +1,41 @@
+html
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+{
+    background-color: white;
+}
+
+body
+{
+}
+
+h1
+{
+    color:darkgreen;
+}
+
+.titles
+{
+    color: grey;
+}
+
+#my-photo
+{
+
+}
+
+.links
+{
+
+}
+
+.container
+{
+    
+}
